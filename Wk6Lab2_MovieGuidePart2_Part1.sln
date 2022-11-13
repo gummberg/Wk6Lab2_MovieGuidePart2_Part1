@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Wk6Lab2_MovieGuidePart2_Part1", "Wk6Lab2_MovieGuidePart2_Part1.pyproj", "{EAAC33A6-6057-4A09-9D1D-94F3E49F75E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAAC33A6-6057-4A09-9D1D-94F3E49F75E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAAC33A6-6057-4A09-9D1D-94F3E49F75E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FB72846-1E2E-4263-AFF5-7C2CC4FB14F5}
+	EndGlobalSection
+EndGlobal
